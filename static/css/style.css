@@ -242,7 +242,7 @@ h1, h2, h3, h4, h5, h6 {
 
 /* Change navbar styling on scroll */
 .navbar.active {
-  background: #555186 ;
+  background: #fff;
   box-shadow: 1px 2px 10px rgba(0, 0, 0, 0.1);
 }
 
